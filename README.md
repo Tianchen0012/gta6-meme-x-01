@@ -1,9 +1,8 @@
 # GTA 6 meme on X — make.fun bounty entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-FF2E88)](https://make.fun/bounty/gta6-meme-x-01)
-[![bounty](https://img.shields.io/badge/bounty-%24500-FF2E88)](https://make.fun/bounty/gta6-meme-x-01)
-[![account](https://img.shields.io/badge/make.fun-%40baby--2-7C3AED)](https://make.fun/profile)
-[![X](https://img.shields.io/badge/X-%40tianchen996-000000)](https://x.com/tianchen996)
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Tianchen0012/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Tianchen0012/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
 A GTA 6 meme for the make.fun bounty **gta6-meme-x-01** ($500, top 50 paid).
 
